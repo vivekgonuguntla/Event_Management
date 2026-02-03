@@ -23,22 +23,6 @@ Lombok
 Springdoc OpenAPI (Swagger)
 JUnit 5 & Mockit
 
-🅿️Project Structure
-com.example.eventmanagement
-├── controller
-│   └── EventController.java
-├── service
-│   ├── EventService.java
-│   └── EventServiceImpl.java
-├── repository
-│   └── EventRepository.java
-├── model
-│   └── Event.java
-├── dto
-│   └── EventRequest.java
-├── exception
-│   ├── ResourceNotFoundException.java
-│   └── GlobalExceptionHandler.java
 ├── config
 │   └── SwaggerConfig.java (optional)
 └── EventManagementApplication.java
