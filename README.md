@@ -23,6 +23,4 @@ Lombok
 Springdoc OpenAPI (Swagger)
 JUnit 5 & Mockit
 
-├── config
-│   └── SwaggerConfig.java (optional)
-└── EventManagementApplication.java
+
